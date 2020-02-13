@@ -1,0 +1,1 @@
+This is Lepracone's first git project!
